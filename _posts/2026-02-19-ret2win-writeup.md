@@ -1,7 +1,7 @@
 ## rop emporium's ret2win challenge 
 ---
 layout: post
-author: r3d3y35
+author: p3rf3ctblu3
 ---
 
    The challenge's title ret2win refers to a simple rop where we have to exploit the program be forcing entry to the ret function and overwriting its return address with a vulnerable function.
@@ -38,6 +38,7 @@ author: r3d3y35
 
    Which gives us the flag: 
    <img width="512" height="131" alt="image" src="https://github.com/user-attachments/assets/93ae78d4-2025-47f2-9b86-64a678fd560e" />
+
 
 
 
