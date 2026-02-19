@@ -1,4 +1,4 @@
-## my notes on x86 security permissions and how to approach the exploit 
+## rop emporium's ret2win writeup 
 ---
 layout: post
 author: r3d3y35
@@ -26,6 +26,7 @@ Solving the rop emporium ret2win challenge
    p.interactive()
 
    Which gives us the flag: 
+
 
 
 
